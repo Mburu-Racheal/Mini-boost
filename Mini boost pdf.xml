@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>R:\Mechatronics\School Work\4.2\EPD\Cad project\Mini boost pdf\Mini boost pdf.kicad_sch</source>
+    <date>22/12/2022 09:09:32</date>
+    <tool>Eeschema (6.0.1)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Mini boost </title>
+        <company/>
+        <rev/>
+        <date>23/12/22</date>
+        <source>Mini boost pdf.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1uF 250v </value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5aeaa95-fd00-4191-b78f-5238e917af14</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uF 250v</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3bdf4d2-e678-4ce4-ad20-ab0053e702d0</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF 250v</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>982c3557-b89b-491d-97e2-3d6c0453122e</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100uF 16v</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c1e51de-4c2f-4d17-b4bd-26c5d7c2df49</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>220pF</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c1b399f-24c2-41cb-8bb5-65841799a411</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100pF 250v</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>421c4d47-065f-47e5-aabf-34f3342cbdec</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>430pF</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18fd0403-c4f8-48ab-8ad2-4a98c609ea82</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100uF 16v</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f67e26f-f8fb-471b-8476-56631b3430b7</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF 16v</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee3bd2f1-8598-4947-a654-f83f35c2862d</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1nF</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>569a6dce-a124-4c7a-93ba-276b2c61661b</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF 250v</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d7402fc-926c-40f4-adbe-8d1de5560f16</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF 250v</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e04d472a-b522-492f-8c9e-d61a712ae21a</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>47uF 16v</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d750081a-67ff-420a-b98e-00faca34ed3c</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>560pF 250V</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3146b8d3-da24-4586-9174-5daa0fae6761</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17b4f3a8-afb9-40dc-93fb-e7cf276db43a</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_01005_0402Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1d12097e-3486-4988-8fe7-e303a776577e</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>ES1D</value>
+      <footprint>Diode_SMD:D_01005_0402Metric</footprint>
+      <fields>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="DIODE" description="Diode, anode on pin 1, for simulation only!"/>
+      <property name="Spice_Netlist_Enabled" value="Y"/>
+      <property name="Spice_Primitive" value="D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>956d07ed-1db7-42d6-a0b4-62d1d8b344a9</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>BAT54</value>
+      <footprint>Diode_SMD:D_01005_0402Metric</footprint>
+      <libsource lib="BAT54" part="BAT54" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6666da88-2000-4311-a331-dc6106735af3</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Screw_Terminal_01x04</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-4_P5.08mm</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02852a88-4a8f-43aa-97c5-98639eae7119</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x01</value>
+      <footprint>Connector:Banana_Jack_1Pin</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddeb6325-2bc0-45f6-a2f4-cefd77b0319d</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x01</value>
+      <footprint>Connector:Banana_Jack_1Pin</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f0d09b59-b9f8-4e22-b932-d4936b7f9e45</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x01</value>
+      <footprint>Connector:Banana_Jack_1Pin</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df49140a-9b65-4fef-891e-6f8883d15bd7</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x01</value>
+      <footprint>Connector:Banana_Jack_1Pin</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a25aab25-581a-4745-9369-e846c42c7144</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>60ohm 100Mhz</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f72686f9-cc69-4533-86ad-f745856e0d00</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>33uH</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>745aeeeb-15fa-450c-960b-7124e17e4d7e</tstamps>
+    </comp>
+    <comp ref="L5">
+      <value>60ohm 100Mhz</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e48212e-fe2e-475a-b854-b927d368e4bf</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>USB_OTG</value>
+      <footprint>Connector_Audio:Jack_3.5mm_PJ311_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="USB_OTG" description="USB mini/micro connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7258ed8e-17bf-4599-ae6a-a7b18848e790</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>MMBTA42</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/MMBTA42LT1-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="MMBTA42" description="0.5A Ic, 300V Vce, NPN High Voltage Transistor, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e52abde-bc99-49cf-a2e4-5bfe7ef3421c</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>FDS2672CT</value>
+      <libsource lib="FET" part="FDS2672CT" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81f82b6c-d0cc-4329-be88-ada1e06343d9</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_01005_0402Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf622997-04f0-4cb8-83c2-adcfedac4ee9</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>60.4k</value>
+      <footprint>Resistor_SMD:R_01005_0402Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e01b5d0d-0fcd-475d-9a16-3d35f181a7fa</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>N.U.</value>
+      <footprint>Resistor_SMD:R_01005_0402Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6f16a15-9396-4403-85bd-619f03466c2f</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_01005_0402Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c1355e7-783b-4a73-8b6d-2d185678b2c2</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>0 Ohm</value>
+      <footprint>Resistor_SMD:R_01005_0402Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60f5ddfa-7376-4338-8581-33d52a6cef82</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>0 Ohm</value>
+      <footprint>Resistor_SMD:R_01005_0402Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba9ad0b1-4710-426c-a707-4fe51c824f2d</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>2k</value>
+      <footprint>Resistor_SMD:R_01005_0402Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>494ce31b-6da1-4eec-960c-cf73be5e52ba</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_01005_0402Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4071cd03-62b3-476f-a648-0dd62037fb18</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_01005_0402Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a98c561a-d757-41af-ad3e-b7ac83178e04</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>0.1 1/2W</value>
+      <footprint>Resistor_SMD:R_01005_0402Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8b33bcc-62e7-47e8-970e-b243c22fccdf</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>4.12k</value>
+      <footprint>Resistor_SMD:R_01005_0402Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cf500ce-9234-435b-8e0d-790ba4cd9df4</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>634k</value>
+      <footprint>Resistor_SMD:R_01005_0402Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74918e81-f305-47ae-ace8-f5f16c6b5efd</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>7.68k</value>
+      <footprint>Resistor_SMD:R_01005_0402Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>080c2fa4-503d-4f0a-ad24-d8e91bb7531a</tstamps>
+    </comp>
+    <comp ref="TP12">
+      <value>SW_B</value>
+      <footprint>TestPoint:TestPoint_Bridge_Pitch2.0mm_Drill0.7mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db1e695f-6d11-41c7-99a6-842e4963dec8</tstamps>
+    </comp>
+    <comp ref="TP14">
+      <value>+160v</value>
+      <footprint>TestPoint:TestPoint_Bridge_Pitch2.0mm_Drill0.7mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0bb382c4-d03f-4c6c-bee0-949d359cbf6f</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>UCC3803_</value>
+      <libsource lib="regulator_controller" part="UCC3803_" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>674d787b-e0e0-45c8-beb6-1427f91531f3</tstamps>
+    </comp>
+    <comp ref="V1">
+      <value>+160V</value>
+      <libsource lib="+160V" part="+160V" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Mini boost pdf.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f2b07df-d04b-4b7e-8736-ac790ba386e1</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="+160V" part="+160V">
+      <fields>
+        <field name="Reference">V</field>
+        <field name="Value">+160V</field>
+      </fields>
+    </libpart>
+    <libpart lib="BAT54" part="BAT54">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAT54</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x04">
+      <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_OTG">
+      <description>USB mini/micro connector</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_OTG</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="passive"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Small">
+      <description>Inductor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FET" part="FDS2672CT">
+      <fields>
+        <field name="Reference">Q2</field>
+        <field name="Value">FDS2672CT</field>
+      </fields>
+      <pins>
+        <pin num="" name="1" type="passive"/>
+        <pin num="1" name="S" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+        <pin num="4" name="G" type="input"/>
+        <pin num="5" name="D" type="passive"/>
+        <pin num="6" name="D" type="passive"/>
+        <pin num="7" name="D" type="passive"/>
+        <pin num="8" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Simulation_SPICE" part="DIODE">
+      <description>Diode, anode on pin 1, for simulation only!</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODE</field>
+        <field name="Datasheet">~</field>
+        <field name="Spice_Netlist_Enabled">Y</field>
+        <field name="Spice_Primitive">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="MMBTA42">
+      <description>0.5A Ic, 300V Vce, NPN High Voltage Transistor, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/MMBTA42LT1-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MMBTA42</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/MMBTA42LT1-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="regulator_controller" part="UCC3803_">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">UCC3803_</field>
+      </fields>
+      <pins>
+        <pin num="" name="Isense" type="passive"/>
+        <pin num="1" name="COMP" type="power_in"/>
+        <pin num="2" name="FB" type="input"/>
+        <pin num="4" name="R/C" type="input"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="OUT" type="output"/>
+        <pin num="7" name="VCC" type="power_in"/>
+        <pin num="8" name="Vref" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="+160V">
+      <uri>C:/Users/USER/Documents/KiCad/6.0/symbols/+160V.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="FET">
+      <uri>C:/Users/USER/Documents/KiCad/6.0/symbols/FET.kicad_sym</uri>
+    </library>
+    <library logical="Simulation_SPICE">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Simulation_SPICE.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_BJT.kicad_sym</uri>
+    </library>
+    <library logical="regulator_controller">
+      <uri>C:/Users/USER/Documents/KiCad/6.0/symbols/regulator_controller.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="5v_Power">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="L2" pin="2" pintype="passive"/>
+      <node ref="P1" pin="1" pinfunction="VBUS" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="P1" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="P1" pin="6" pinfunction="Shield" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="3" name="N_ENABLE">
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="N_ENABLE ">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="L5" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="L2" pin="1" pintype="passive"/>
+      <node ref="L3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="7" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="COMP" pintype="power_in"/>
+    </net>
+    <net code="8" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="R/C" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="Vref" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="" pinfunction="Isense" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L5" pin="2" pintype="passive"/>
+      <node ref="TP14" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="D2" pin="3" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(C15-Pad1)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L3" pin="1" pintype="passive"/>
+      <node ref="Q2" pin="" pinfunction="7" pintype="passive"/>
+      <node ref="TP12" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(P1-Pad2)">
+      <node ref="P1" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="P1" pin="3" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(Q2-Pad)">
+      <node ref="Q2" pin="" pinfunction="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(Q2-Pad)_1">
+      <node ref="Q2" pin="" pinfunction="4" pintype="input"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(Q2-Pad5)">
+      <node ref="Q2" pin="5" pinfunction="D" pintype="passive"/>
+      <node ref="Q2" pin="6" pinfunction="D" pintype="passive"/>
+      <node ref="Q2" pin="7" pinfunction="D" pintype="passive"/>
+      <node ref="Q2" pin="8" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="23" name="unconnected-(J4-Pad1)">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="24" name="unconnected-(J5-Pad1)">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(P1-Pad4)">
+      <node ref="P1" pin="4" pinfunction="ID" pintype="passive+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(Q2-Pad4)">
+      <node ref="Q2" pin="4" pinfunction="G" pintype="input"/>
+    </net>
+  </nets>
+</export>
